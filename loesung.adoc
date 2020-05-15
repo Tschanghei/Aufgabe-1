@@ -1,0 +1,20 @@
+= Professionelle Softwareentwicklung: Pflichtabgabe 1 - Lösung
+:icons: font
+:icon-set: fa
+:source-highlighter: rouge
+:experimental:
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+=== Aufgabe 2
+
+Beschreiben Sie hier: 
+- Welche Prinzipien wie genau verletzt wurden.
+- Welche Struktur der Code haben muss, damit die Prinzipien eingehalten werden 
+1.Code soll auf Single "Responsibility" beschreiben werden. Jede Klasse soll nur eine Verantwortlichkeit haben.
+2.Der Code muss sich trennen, daraus das Klass "Gratulation" und Print. Print hat andere Funktion, dass das austreten sollen.
